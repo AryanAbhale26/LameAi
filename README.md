@@ -48,17 +48,15 @@ Lame AI offers an intelligent chatbot experience where users can have real-time 
 3. **Open the Application**:
    Once the server starts, open http://localhost: in your browser to view the app.
 
-## Screenshots
-
-1. **Home Page**
-   ![image](https://github.com/user-attachments/assets/7e6b373f-d184-4aa3-8b54-4b41230e83e4)
+## Glimse
 
 
-2. **Opening Page**
-   ![image](https://github.com/user-attachments/assets/697ae035-b20c-4ea6-aa86-b0b552d5911e)
 
-3. **Chat Page**
-   ![image](https://github.com/user-attachments/assets/7752273a-5468-46a6-a18e-c1bc23a46e41)
+https://github.com/user-attachments/assets/b0c9fc8b-99d9-4b99-8afc-2c4fe6c868f5
+
+
+
+   
 
 
 
