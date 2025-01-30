@@ -1,0 +1,58 @@
+/* ChatList.css */
+
+.chatList {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.title {
+  margin-bottom: 10px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.sp {
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  transition: background-color 0.3s;
+}
+
+.sp:hover {
+  background-color: #2c2937;
+}
+
+.recentChats::-webkit-scrollbar {
+  display: none;
+}
+
+.hr {
+  height: 2px;
+  opacity: 0.1;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.upgrade {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 12px;
+}
+
+.upgrade img {
+  height: 24px;
+  width: 24px;
+}
+
+.upgrade .texts {
+  display: flex;
+  flex-direction: column;
+}
+
+.upgrade .texts span {
+  font-size: 12px;
+}
